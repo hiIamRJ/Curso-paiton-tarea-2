@@ -121,6 +121,7 @@ div,li {
 /*parte 4*/
 .menu-parte-4{
     display: flex;
+
 }
 
 .carta{
@@ -144,17 +145,16 @@ margin: 32px;
 
 }
 
-.carta-contenido-precio¨{
- text-align: end;
+.carta-contenido-precio{
+ text-align: right;
 }
 
 .cafe-carta{
     display: flex;
     flex-wrap: wrap;
     background-color: white;
-    padding: 20px;
+    margin: 20px;
 }
-
 .cafe-carta li{
     width: 49%;
     display: flex;
